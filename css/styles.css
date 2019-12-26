@@ -1,0 +1,18 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+h1{
+    text-align: center;
+    background-color: #787FEC
+}
+.subtitulo {
+    border: 2px dotted black;
+    text-align: center;
+    background-color: rgb(110, 161, 223)
+}
+.list{
+    background-color: rgb(160, 226, 243)
+}
+.songs{
+    border: 1px solid #03ADCF
+}
