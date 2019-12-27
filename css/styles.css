@@ -14,11 +14,12 @@ h1{
 .nombres{
     text-align: left;
 }
-.siete{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
 #Países{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3ch;
     border-bottom: solid 1px;
+}
+.miembros{
+    background-color: rgb(182, 224, 248);
+    padding: 50px;
 }
