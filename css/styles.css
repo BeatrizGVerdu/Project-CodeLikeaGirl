@@ -1,7 +1,7 @@
 h1{
     text-align: center;
     border: solid 3px;
-    background-color:rgb(253, 144, 255) ;
+    background-color:rgb(247, 213, 242) ;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #tipo{
@@ -10,4 +10,15 @@ h1{
     border: double 10px;
     padding: 150px ;
     margin: 30px;
+}
+.nombres{
+    text-align: left;
+}
+.siete{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Países{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3ch;
+    border-bottom: solid 1px;
 }
